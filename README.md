@@ -9,13 +9,13 @@ O AllBooks é uma loja virtual que vende livros da Casa do Código.
 
 Essa é ma API Rest mockada, utilizando json-server e JWT.
 
-## 🛠️ Instalação
+## Instalação
 
 ```bash
 $ npm install
 $ npm run start-auth
 ```
-## 🛠️ Como se registrar?
+## Como se registrar?
 
 Você pode fazer isso efetuando uma requisição post para:
 
@@ -39,7 +39,7 @@ Com os seguintes dados:
 
 Repare que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
 
-## 🛠️ Como fazer login?
+## Como fazer login?
 
 Você pode fazer isso efetuando uma requisição post para:
 
